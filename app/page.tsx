@@ -1,5 +1,5 @@
 
 
 export default async function Home() {
-  return <div>hello</div>
+  return <div>Main Page</div>
 }
