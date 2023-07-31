@@ -48,16 +48,16 @@ Please ensure your code follows the project's coding style and includes appropri
 
 ## Contact
 
-If you have any questions, suggestions, or just want to say hello, feel free to reach out to us at [your.email@example.com]. We'd love to hear from you!
+If you have any questions, suggestions, or just want to say hello, feel free to reach out to us at [hello@nickhuemmer.me]. We'd love to hear from you!
 
 Happy coding! 🚀
 
 
 Welcome to my personal page!
 
-About Me:
+# About Me:
 --------------
-Hey there! I'm [Your Name], a passionate web developer and technology enthusiast. I love crafting beautiful and efficient web experiences that leave a positive impact on users. With a background in computer science and a keen eye for design, I enjoy exploring the intersection of technology and creativity.
+Hey there! I'm Nick Huemmer, a web developer and technology enthusiast. I love crafting beautiful and efficient web experiences that leave a positive impact on users. I enjoy exploring the intersection of technology and creativity.
 
 Tech Stack:
 --------------
@@ -79,6 +79,6 @@ I'm an avid supporter of the open-source community. You can find some of my cont
 
 Get in Touch:
 --------------
-I'm always eager to connect with fellow developers and collaborate on exciting projects. Whether it's about web development, technology trends, or just to say hello, feel free to drop me a message at [your.email@example.com].
+I'm always eager to connect with fellow developers and collaborate on exciting projects. Whether it's about web development, technology trends, or just to say hello, feel free to drop me a message at [hello@nickhuemmer.me].
 
 Let's build a better web together! 🚀
